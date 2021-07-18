@@ -1,0 +1,1 @@
+activate py36 & cd G:\My Drive\CrimeGame\ & python CMG18-01v3.py .75 2
